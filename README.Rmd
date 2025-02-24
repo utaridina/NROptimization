@@ -1,1 +1,3 @@
+Newton Raphson Optimization
+
 This function finds the root of a function using the Newton-Raphson method.
