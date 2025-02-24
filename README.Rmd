@@ -1,7 +1,1 @@
----
-output: github_document
----
-
-# Add a title
-  
-Explain what your package is doing here
+This function finds the root of a function using the Newton-Raphson method.
