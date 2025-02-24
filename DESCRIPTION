@@ -1,0 +1,13 @@
+Package: NROptimization
+Type: Package
+Title: Newton Raphson Optimization
+Version: 0.1.0
+Authors@R: c(
+    person("Utari", "Dina Tri", email = "dina.t.utari@uii.ac.id", role = c("aut","cre")),
+    person("Danarwindu", "Ghiffari Ahnaf", role = "aut")
+    )
+Maintainer: Dina Tri Utari <dina.t.utari@uii.ac.id>
+Description: This function finds the root of a function using the Newton-Raphson method.
+License: Department of Statistics, Universitas Islam Indonesia
+Encoding: UTF-8
+LazyData: true
